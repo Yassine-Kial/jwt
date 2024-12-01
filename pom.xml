@@ -43,7 +43,7 @@
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt-impl</artifactId>
-			<version>0.11.5</version> <!-- Adjust the version as needed -->
+			<version>0.12.6</version> <!-- Adjust the version as needed -->
 		</dependency>
 		<dependency>
 			<groupId>io.jsonwebtoken</groupId>
